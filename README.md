@@ -1,6 +1,5 @@
-I apologize for the confusion. Here's the README.md content in Markdown format:
 
-```markdown
+
 # Code Katas Repository
 
 Welcome to the Code Katas repository! This repository is designed to help you practice your coding skills through a collection of programming challenges known as katas. It's a great way to improve your problem-solving abilities and coding techniques.
@@ -52,4 +51,4 @@ Here are some resources to help you with your kata solutions:
 If you have any questions, suggestions, or need assistance, don't hesitate to reach out to [aya@touch.net.za](mailto:aya@touch.net.za).
 
 Happy coding!
-```
+
