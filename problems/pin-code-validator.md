@@ -14,10 +14,10 @@ Write a function `validatePin(pin)` that takes a PIN string as input and returns
 ## Example
 
 ```python
-validatePin("1234")  # Returns: True
-validatePin("12345")  # Returns: False (invalid length)
-validatePin("000000")  # Returns: True
-validatePin("a234")  # Returns: False (contains non-digit characters)
+validatePin("1234")  // Returns: True
+validatePin("12345")  // Returns: False (invalid length)
+validatePin("000000")  // Returns: True
+validatePin("a234")  // Returns: False (contains non-digit characters)
 ```
 
 ## How to Use
