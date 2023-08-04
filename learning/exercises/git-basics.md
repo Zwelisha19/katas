@@ -3,7 +3,7 @@
 
 Welcome to the Git Adventure exercise! This hands-on task will help you practice your understanding of Git. If you're new to Git, don't worry. You can watch [this short video](https://www.youtube.com/watch?v=8JJ101D3knE) to get an overview of what Git is.
 
-For a more detailed explanation, you can also check out [this comprehensive README](https://github.com/midastouchtech/katas/blob/main/what-is-git.md) that explains the key concepts of Git.
+For a more detailed explanation, you can also check out [this read me](https://github.com/midastouchtech/katas/blob/main/learning/git/what-is-git.md) that explains the key concepts of Git.
 
 Now, let's dive into the exercise!
 
