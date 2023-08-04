@@ -4,6 +4,8 @@ Welcome to the world of Git! 🎉 If you're new to programming and wondering wha
 
 ## What is Git?
 
+(PS: You can watch this video [here](https://www.youtube.com/watch?v=DVRQoVRzMIY) explaining the basics.)
+
 **Git** is a version control system that helps you track changes in your code. Imagine you're working on a project, and you make several changes over time. With Git, you can keep a detailed record of every change you make. This makes it easier to collaborate with others, revert to previous versions, and manage different versions of your code.
 
 ## Why is Git Important?
