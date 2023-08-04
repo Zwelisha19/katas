@@ -39,9 +39,6 @@ Now, let's dive into the exercise!
    - Push all your changes and branches to the GitHub repository.
    - Verify that the changes and branches are visible on the GitHub repository page.
 
-7. **Task 6: Cleanup (Optional)**
-   - If you're comfortable, you can delete the branches you created locally and remotely.
-
 **Guidelines:**
 
 - Refer to the provided video for a quick overview of Git.
