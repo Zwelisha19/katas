@@ -42,3 +42,9 @@ If you'd like to contribute improvements or alternative solutions, feel free to 
 If you have any questions or need assistance, don't hesitate to reach out. Remember, practice is key, and every step you take makes you a better coder!
 
 Happy coding! 🚀
+
+But you have the problem in python and we agreed that we will do it in javascript
+
+
+
+
